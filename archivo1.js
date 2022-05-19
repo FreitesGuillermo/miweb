@@ -1,2 +1,2 @@
-console.log("chanchito triste");
+console.log("chanchito tris");
 console.log("chanchito triste");
